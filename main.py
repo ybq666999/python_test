@@ -10,6 +10,8 @@ def print_hi(name):
     print('second')
     print('2222222')
     print('master 22222222')
+    print('1111111')
+    print('new 2222222')
 
 
 # 按间距中的绿色按钮以运行脚本。
