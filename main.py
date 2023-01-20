@@ -15,6 +15,7 @@ def print_hi(name):
     print('push second test')
     print('pull test')
     print('token ssh push test')
+    print('ssh pull test')
 
 
 # 按间距中的绿色按钮以运行脚本。
