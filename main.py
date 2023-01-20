@@ -13,6 +13,7 @@ def print_hi(name):
     print('1111111')
     print('new 2222222')
     print('push second test')
+    print('pull test')
 
 
 # 按间距中的绿色按钮以运行脚本。
