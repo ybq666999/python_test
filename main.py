@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # 按 Ctrl+F8 切换断点。
     print('second')
     print('2222222')
+    print('master 22222222')
 
 
 # 按间距中的绿色按钮以运行脚本。
